@@ -1,9 +1,3 @@
-# PostgreSQL Basics – README
-
-This document provides a basic overview of key PostgreSQL concepts. Useful for beginners and students working with relational databases.
-
----
-
 ## 1. What is PostgreSQL?
 
 PostgreSQL is a relational database management system. It is open-source and one of the most widely used database systems. It supports Structured Query Language (SQL) and includes advanced features such as:
