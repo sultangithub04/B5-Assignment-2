@@ -57,7 +57,7 @@ Schemas help to:
 The `WHERE` clause is used to **filter rows** based on specific conditions. It allows retrieval of only those rows that match certain criteria.
 
 **Example:**
-```sql
+
 SELECT * FROM students WHERE age > 18;
 
 ## 6. What are the `LIMIT` and `OFFSET` clauses used for?
