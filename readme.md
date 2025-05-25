@@ -59,3 +59,14 @@ The `WHERE` clause is used to **filter rows** based on specific conditions. It a
 **Example:**
 ```sql
 SELECT * FROM students WHERE age > 18;
+
+## 6. What are the `LIMIT` and `OFFSET` clauses used for?
+
+These clauses are commonly used for **pagination**:
+
+- **`LIMIT`**: Specifies the maximum number of rows to return.
+- **`OFFSET`**: Skips a specific number of rows before starting to return results.
+
+**Example:**
+```sql
+SELECT * FROM students LIMIT 5 OFFSET 10;
